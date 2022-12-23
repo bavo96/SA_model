@@ -1,0 +1,6 @@
+transformers
+datasets
+seqeval
+py_vncorenlp
+nltk
+gdown
